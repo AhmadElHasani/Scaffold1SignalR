@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ahmad\\OneDrive\\Desktop\\LavoroDICEA\\signalR\\CodiceMio\\Scaffold\\Scaffold1SignalR\\src\\Scaffold.web\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Scaffold.web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Scaffold.web.props",
+      "PackagePath": "build\\Scaffold.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Scaffold.web.props",
+      "PackagePath": "buildMultiTargeting\\Scaffold.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Scaffold.web.props",
+      "PackagePath": "buildTransitive\\Scaffold.web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

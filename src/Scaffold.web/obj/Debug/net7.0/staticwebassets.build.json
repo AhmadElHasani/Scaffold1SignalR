@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "01rZ7KBNmR2J2sOZP5spAi5vXDIdCajInsV171WtSr0=",
+  "Source": "Scaffold.web",
+  "BasePath": "_content/Scaffold.web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Scaffold.web\\wwwroot",
+      "Source": "Scaffold.web",
+      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\LavoroDICEA\\signalR\\CodiceMio\\Scaffold\\Scaffold1SignalR\\src\\Scaffold.web\\wwwroot\\",
+      "BasePath": "_content/Scaffold.web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\LavoroDICEA\\signalR\\CodiceMio\\Scaffold\\Scaffold1SignalR\\src\\Scaffold.web\\wwwroot\\index.html",
+      "SourceId": "Scaffold.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\LavoroDICEA\\signalR\\CodiceMio\\Scaffold\\Scaffold1SignalR\\src\\Scaffold.web\\wwwroot\\",
+      "BasePath": "_content/Scaffold.web",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
